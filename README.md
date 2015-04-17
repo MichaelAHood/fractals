@@ -15,5 +15,7 @@ You can also specify the complexity of the snowflake by modifying the paramters 
 Ex: draw_snowflake(10, 4)
 
 Caution: Using a recursion depth of more than 5 takes a really long time to draw, even after modifying the drawing speed.
+
+
 Warning: Recursion depths of 8 or greater, crash my computer.
 
