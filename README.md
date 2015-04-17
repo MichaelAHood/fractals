@@ -10,7 +10,7 @@ You can move the drawing turtle around by modifying the paramters for jonney.got
 
 Ex: jonney.goto(-200,0)
 
-You can also specify the complexity of the snowflake by modifying the paramters of draw_snowflake(length, depth): 
+You can also specify the complexity of the snowflake by modifying the parameters of draw_snowflake(length, depth): 
 
 Ex: draw_snowflake(10, 4)
 
